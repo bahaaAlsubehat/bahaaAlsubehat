@@ -5,7 +5,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bahaaAlsubehat&label=Profile%20views&color=0e75b6&style=flat" alt="bahaaAlsubehat" /> </p>
 
-<p><img class="bg-dark" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bahaaAlsubehat&show_icons=true&hide=html&locale=en&layout=compact&theme=dark" alt="bahaaAlsubehat" /></p>
+<p><img class="bg-dark" align="center" src="http://github-readme-stats.vercel.app/api/top-langs?username=bahaaAlsubehat&show_icons=true&hide=html&locale=en&layout=compact&theme=dark" alt="BahaaAlSubehat" /></p>
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/bahaaAlsubehat](https://github.com/bahaaAlsubehat)
